@@ -72,34 +72,6 @@ This project features a high-fidelity **Cyberpunk/Sci-Fi interface** built with:
     * Simulated Terminal/System Logs.
     * Biometric (Fingerprint) Animation sequence.
 
-## 🚀 Installation & Setup
-
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/PoseliusTrident/poselius-trident.git](https://github.com/PoseliusTrident/poselius-trident.git)
-    ```
-2.  **Server Setup**
-    Ensure you have a local server environment (like XAMPP, WAMP, or Docker) running PHP.
-3.  **Deploy**
-    Move the files to your `htdocs` or `www` directory.
-4.  **Access**
-    Open your browser and navigate to `http://localhost/poselius-trident`.
-
-## 📸 Interface Preview
-
-*(Placeholder for screenshots - Add your screenshots here)*
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x300/000000/ff6600?text=Dashboard+Interface" alt="Dashboard" width="45%" />
-  <img src="https://via.placeholder.com/600x300/000000/ff6600?text=Biometric+Scan" alt="Scan" width="45%" />
-</div>
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
   <p>© 2025 Poselius Trident. All Systems Operational.</p>
   <a href="https://github.com/PoseliusTrident">GitHub</a> • 
