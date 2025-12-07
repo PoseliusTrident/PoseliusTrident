@@ -72,6 +72,8 @@ This project features a high-fidelity **Cyberpunk/Sci-Fi interface** built with:
     * Simulated Terminal/System Logs.
     * Biometric (Fingerprint) Animation sequence.
 
+---
+
 <div align="center">
   <p>© 2025 Poselius Trident. All Systems Operational.</p>
   <a href="https://github.com/PoseliusTrident">GitHub</a> • 
