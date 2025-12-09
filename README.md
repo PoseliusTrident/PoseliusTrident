@@ -4,6 +4,8 @@
   
   # POSELIUS TRIDENT
   ### Autonomous Inference Architecture
+
+CA: ABxuKqe8Vqphe9cvceXpCWhSCD2LYaU8ANgpF17Ppump
   
   <p>
     <b>Foundational computational layer for real-time anomaly detection and autonomous decision workflows.</b>
